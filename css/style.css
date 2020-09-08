@@ -15,8 +15,30 @@ img{
   padding: 5px;
   width: 150px;
 }
-p{
+.top{
+    font-size: xx-large;
+    background-color: rgb(235, 84, 84);
+    color:blanchedalmond;
+    border: 5px dashed palevioletred;
+    margin: 0px 900px 0px 0px;
+    padding: 20px;
+    
+
+
+
+}
+/* p{
     font-size: xx-large;
     background-color: black;
     color: blanchedalmond;
+} */
+nav{
+    font-size: x-large;
+}
+ul{
+    font-size: xx-large;
+    background-color: black;
+    color: blanchedalmond;
+    margin: 0px 80px 0px 0px;
+
 }
