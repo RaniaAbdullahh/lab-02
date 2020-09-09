@@ -10,3 +10,6 @@ like using:
 - arrays,
 - conditions (if, else if, swich), 
 - loops (for, while, do while)
+
+the navigator is : Rania
+the driver is : Fadi
